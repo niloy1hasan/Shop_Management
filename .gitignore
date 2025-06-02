@@ -1,0 +1,66 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Web resource cache
+*.resx
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# T4 Text Transformation
+*.Generated.cs
+
+# Backup & temp files
+*~
+*.tmp
+*.bak
+*.old
+
+# Recycle bin used on file shares
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+
+# IIS Express
+.vsconfig
+.ionide/
+
+# User secrets
+secrets.json
+
+# Windows Forms Designer
+*.Designer.cs
+
+# Publish
+publish/
+ 
